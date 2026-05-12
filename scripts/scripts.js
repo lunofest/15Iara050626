@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const cancionInput = document.getElementById('cancion');
   const linkInput = document.getElementById('link');
   const errorMensaje = document.getElementById('error-mensaje');
-  const numeroWhatsapp = '541126975351';
+  const numeroWhatsapp = '541158795780';
 
   botonEnviar.addEventListener('click', function () {
     const nombre = nombreInput.value.trim();
@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener('DOMContentLoaded', function () {
   // Definir los números de teléfono
-  const recipientNumber1 = '541158795780'; // Número para el primer botón
+  const recipientNumber1 = '541126975351'; // Número para el primer botón
   const recipientNumber2 = '543816591298'; // Número para el segundo botón
 
   // Función para enviar mensaje por WhatsApp
